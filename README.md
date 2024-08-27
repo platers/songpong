@@ -1,5 +1,9 @@
 # Song Pong
 
+https://www.youtube.com/watch?v=V0AXprDRsUU
+
+![alt text](assets/ex_image.png)
+
 This is a version of Pong that synchronizes the bounces with a song. You are free to use this code for any purpose, I only ask that you link back to this repo.
 
 ## Basic Usage

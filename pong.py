@@ -286,7 +286,7 @@ class PongGame:
             self.ball.draw(screen)
         for paddle in self.paddles:
             paddle.draw(screen)
-        font = pygame.font.Font("fonts/PressStart2P-Regular.ttf", 32)
+        font = pygame.font.Font("assets/PressStart2P-Regular.ttf", 32)
         score_text = font.render(f"{self.score}", True, WHITE)
         score_rect = score_text.get_rect(center=(WINDOW_SIZE[0] // 2, 30))
         screen.blit(score_text, score_rect)
