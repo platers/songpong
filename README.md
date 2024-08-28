@@ -1,6 +1,6 @@
 # Song Pong
 
-https://www.youtube.com/watch?v=V0AXprDRsUU
+[https://www.youtube.com/watch?v=V0AXprDRsUU](https://www.youtube.com/watch?v=lxjElOAgkPg)
 
 ![alt text](assets/ex_image.png)
 
